@@ -1,0 +1,10 @@
+D:\Lap_trinh_Win\BT_Lab\Winforms1\WF1\bin\Debug\WF1.exe.config
+D:\Lap_trinh_Win\BT_Lab\Winforms1\WF1\bin\Debug\WF1.exe
+D:\Lap_trinh_Win\BT_Lab\Winforms1\WF1\bin\Debug\WF1.pdb
+D:\Lap_trinh_Win\BT_Lab\Winforms1\WF1\obj\Debug\WF1.csproj.AssemblyReference.cache
+D:\Lap_trinh_Win\BT_Lab\Winforms1\WF1\obj\Debug\WF1.Form1.resources
+D:\Lap_trinh_Win\BT_Lab\Winforms1\WF1\obj\Debug\WF1.Properties.Resources.resources
+D:\Lap_trinh_Win\BT_Lab\Winforms1\WF1\obj\Debug\WF1.csproj.GenerateResource.cache
+D:\Lap_trinh_Win\BT_Lab\Winforms1\WF1\obj\Debug\WF1.csproj.CoreCompileInputs.cache
+D:\Lap_trinh_Win\BT_Lab\Winforms1\WF1\obj\Debug\WF1.exe
+D:\Lap_trinh_Win\BT_Lab\Winforms1\WF1\obj\Debug\WF1.pdb
